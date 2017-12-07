@@ -129,7 +129,9 @@ pessoa.mostrarAltura //Olá eu tenho 1.82m
 Faça a `pessoa` fazer 3 aniversários.
 */
 
-
+pessoa.fazerAniversario(); //1
+pessoa.fazerAniversario(); //2
+pessoa.fazerAniversario(); ///3
 
 /*
 Quantos anos a `pessoa` tem agora? (Use a instrução para responder e
